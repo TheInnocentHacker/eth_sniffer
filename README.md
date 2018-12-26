@@ -1,5 +1,5 @@
 # eth_sniffer
-This program prints all the information from the Ethernet,ARP,IP,UDP,ICMP & TCP Header.
+This program prints all the information from the Ethernet, ARP, IP, UDP, ICMP & TCP Header.
 
 It also prints all the data going on through your network.
 
